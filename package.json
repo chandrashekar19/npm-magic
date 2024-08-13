@@ -1,5 +1,5 @@
 {
-  "name": "sample-package",
+  "name": "npm-magic-pacackage",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "author": "Chandrashekar",
+  "author": "Chandrashekar Kalal",
   "license": "ISC",
   "repository": {
     "type": "git",
