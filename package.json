@@ -1,7 +1,6 @@
 {
   "name": "sample-package",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +8,16 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "author": "Chandrashekar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chandrashekar19/npm-magic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chandrashekar19/npm-magic/issues"
+  },
+  "homepage": "https://github.com/chandrashekar19/npm-magic#readme",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
